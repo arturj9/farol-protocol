@@ -41,9 +41,9 @@ Os contratos foram implementados e verificados na rede de testes Sepolia. Pode c
 2. **Configurar variáveis de ambiente:**
 Crie um arquivo .env na raiz e adicione:
 
-INFURA_API_KEY=sua_chave
-SEPOLIA_PRIVATE_KEY=sua_chave_privada
-ETHERSCAN_API_KEY=sua_chave
+- INFURA_API_KEY=sua_chave
+- SEPOLIA_PRIVATE_KEY=sua_chave_privada
+- ETHERSCAN_API_KEY=sua_chave
 
 3. **Compilar e Simular Interação:**
     ```bash
