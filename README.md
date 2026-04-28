@@ -1,6 +1,6 @@
 # Farol Protocol - Web3 MVP 🕯️
 
-**Farol Protocol** é um ecossistema descentralizado desenvolvido como projeto final para a Residência em TIC 29 (Unidade 1 | Capítulo 5). O protocolo integra governação (DAO), staking de ativos e acesso exclusivo via NFT, utilizando oráculos da Chainlink para dinamizar a economia do projeto.
+**Farol Protocol** é um ecossistema descentralizado desenvolvido como projeto final para a Residência em TIC 29. O protocolo integra governação (DAO), staking de ativos e acesso exclusivo via NFT, utilizando oráculos da Chainlink para dinamizar a economia do projeto.
 
 
 
